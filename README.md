@@ -1,5 +1,3 @@
-# mathg1
-for mathematic for grade one
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
